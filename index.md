@@ -1,9 +1,9 @@
 
-Web Scraping with PYTHON
+PYTHON: Web Scraping
 ======
 This workshop is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). ![CC 4.0 License](CC4.png) 
 
-View online: [https://git.yale.edu/pages/yul-dss/WebScrapingPython/](https://git.yale.edu/pages/yul-dss/WebScrapingPython/)
+View online: [https://joshuadull.github.io/PythonWebScraping/](https://joshuadull.github.io/PythonWebScraping/)
 
 Download workshop materials: [https://yale.box.com/v/WebScrapingPython](https://yale.box.com/v/WebScrapingPython)
 

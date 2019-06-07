@@ -1,6 +1,6 @@
 # Python: Web Scraping
 
-Open WebScrapingPython.pdf for instructions or visit [https://git.yale.edu/pages/yul-dss/WebScrapingPython/](https://git.yale.edu/pages/yul-dss/WebScrapingPython/) and follow along.
+Open WebScrapingPython.pdf for instructions or visit [https://joshuadull.github.io/PythonWebScraping/](https://joshuadull.github.io/PythonWebScraping/) and follow along.
 
 For this workshop, I recommend installing Python 3 using [Anaconda](https://www.anaconda.com/distribution/#download-section). The workshop was built using the Spyder IDE, but users can use any python environment they prefer.
 
